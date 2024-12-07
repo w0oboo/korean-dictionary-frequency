@@ -1,32 +1,32 @@
 Korean,Romanization,Frequency,English
 사장,sajang,233.276,CEO
-회장,hoejang,207.969,president
-부장,bujang,93.572,department
-과장,gwajang,70.066,section
-이사,isa,63.492,board
-월급,wolgeup,39.357,"wage,"
+회장,hoejang,207.969,chairman
+부장,bujang,93.572,department head
+과장,gwajang,70.066,section chief
+이사,isa,63.492,director
+월급,wolgeup,39.357,salary
 사원,sawon,34.036,employee
-대리,daeri,30.277,manager
-아르바이트,areubaiteu,20.661,part
-해고,haego,19.767,firing
+대리,daeri,30.277,assistant manager
+아르바이트,areubaiteu,20.661,part-time job
+해고,haego,19.767,dismissal
 승진,seungjin,15.526,promotion
-팀장,timjang,13.531,team
-정년,jeongnyeon,12.760,retirement
-연봉,yeonbong,12.310,annual
-입사,ipsa,8.044,entering
-퇴직금,toejikgeum,6.051,severance
+팀장,timjang,13.531,team leader
+정년,jeongnyeon,12.760,retirement age
+연봉,yeonbong,12.310,annual salary
+입사,ipsa,8.044,joining company
+퇴직금,toejikgeum,6.051,severance pay
 보너스,boneoseu,5.543,bonus
 인턴,inteon,3.267,intern
-퇴사,toesa,0.864,leaving
+퇴사,toesa,0.864,resignation
 대통령,daetongnyeong,476.654,president
 기자,gija,426.998,reporter
 교수,gyosu,366.895,professor
-배우,baeu,313.033,actor
-경찰,gyeongchal,181.133,police
+배우,baeu,313.033,actor/actress
+경찰,gyeongchal,181.133,police officer
 작가,jakga,161.032,writer
 의사,uisa,150.422,doctor
 교사,gyosa,141.984,teacher
-공무원,gongmuwon,79.723,government
+공무원,gongmuwon,79.723,civil servant
 변호사,byeonhosa,77.346,lawyer
 군인,gunin,72.507,soldier
 모델,model,59.559,model
@@ -46,9 +46,13 @@ Korean,Romanization,Frequency,English
 광부,gwangbu,12.872,miner
 디자이너,dijaineo,10.876,designer
 외교관,oegyogwan,10.158,diplomat
-부사장,busajang,9.922,vice
-회사원,hoesawon,7.641,company
-요리사,yorisa,6.850,"cook,"
+부사장,busajang,9.922,vice president
+회사원,hoesawon,7.641,office worker
+요리사,yorisa,6.850,chef
 엔지니어,enjinieo,6.185,engineer
-청소부,cheongsobu,2.966,cleaner
-미용사,miyongsa,2.395,beautician
+청소부,cheongsobu,2.966,janitor
+미용사,miyongsa,2.395,hairdresser
+프리랜서,peurillanseo,5.234,freelancer
+수의사,suisa,4.876,veterinarian
+약사,yaksa,8.932,pharmacist
+회계사,hoegyesa,7.654,accountant

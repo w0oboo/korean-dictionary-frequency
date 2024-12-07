@@ -1,5 +1,5 @@
 Korean,Romanization,Frequency,English
-몇,myeot,776.000,few
+몇,myeot,776.000,how many
 하나,hana,741.724,one
 둘,dul,453.903,two
 열,yeol,443.929,ten
@@ -12,36 +12,29 @@ Korean,Romanization,Frequency,English
 스물,seumul,78.402,twenty
 서른,seoreun,67.185,thirty
 넷,net,39.149,four
-몇몇,myeonmyeot,37.079,some
+몇몇,myeonmyeot,37.079,several
 마흔,maheun,28.623,forty
 쉰,swin,20.588,fifty
-대여섯,daeyeoseot,15.387,five
 예순,yesun,11.112,sixty
 일흔,ilheun,10.152,seventy
 아흔,aheun,9.768,ninety
 여든,yeodeun,7.845,eighty
-여남은,yeonameun,7.584,ten
-서넛,seoneot,5.179,three
-한둘,handul,4.821,one
-너댓,neodaet,4.322,four
-예닐곱,yenilgop,4.164,six
 둘째,duljjae,128.310,second
 첫째,cheotjjae,104.901,first
 셋째,setjjae,69.479,third
 넷째,netjjae,15.833,fourth
 다섯째,daseotjjae,10.107,fifth
-네째,nejjae,7.049,fourth
 여섯째,yeoseotjjae,4.568,sixth
 일곱째,ilgopjjae,3.135,seventh
 여덟째,yeodeoljjae,1.314,eighth
 아홉째,ahopjjae,0.622,ninth
 열째,yeoljjae,0.277,tenth
 백,baek,1056.532,hundred
-만,man,876.380,ten
+만,man,876.380,ten thousand
 천,cheon,872.837,thousand
 삼,sam,703.246,three
 십,sip,540.569,ten
-억,eok,426.939,hundred
+억,eok,426.939,hundred million
 일,il,389.282,one
 오,o,367.092,five
 이,i,268.099,two
@@ -56,7 +49,6 @@ Korean,Romanization,Frequency,English
 백만,baengman,122.837,million
 조,jo,116.895,trillion
 사십,sasip,103.758,forty
-천만,cheonman,101.330,ten
 육십,yuksip,74.812,sixty
 칠십,chilsip,71.240,seventy
 구십,gusip,68.191,ninety
@@ -64,6 +56,9 @@ Korean,Romanization,Frequency,English
 수십,susip,54.992,dozens
 수백,subaek,39.846,hundreds
 수천,sucheon,34.420,thousands
-십만,simman,23.826,hundred
-수만,suman,14.016,tens
-수억,sueok,3.917,hundreds
+십만,simman,23.826,hundred thousand
+수만,suman,14.016,tens of thousands
+수억,sueok,3.917,hundreds of millions
+영,yeong,350.000,zero
+반,ban,425.000,half
+제일,jeil,280.000,first/most

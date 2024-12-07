@@ -4,7 +4,7 @@ Korean,Romanization,Frequency,English
 호랑이,horangi,151.371,tiger
 닭,dak,94.456,chicken
 용,yong,90.041,dragon
-쥐,jwi,86.400,mouse
+쥐,jwi,86.400,mouse/rat
 돼지,dwaeji,74.911,pig
 뱀,baem,59.636,snake
 고양이,goyangi,42.012,cat
@@ -13,14 +13,14 @@ Korean,Romanization,Frequency,English
 오리,ori,33.197,duck
 강아지,gangaji,31.583,puppy
 제비,jebi,28.753,swallow
-까마귀,kkamagwi,27.767,crow
+까마귀,kkamagwi,27.767,crow/raven
 까치,kkachi,23.149,magpie
 원숭이,wonsungi,21.337,monkey
 송아지,songaji,19.261,calf
-비둘기,bidulgi,16.856,pigeon
+비둘기,bidulgi,16.856,pigeon/dove
 참새,chamsae,14.534,sparrow
 염소,yeomso,14.365,goat
-양,yang,14.236,lamb
+양,yang,14.236,sheep
 독수리,doksuri,12.519,eagle
 늑대,neukdae,12.126,wolf
 병아리,byeongari,11.697,chick
@@ -30,3 +30,7 @@ Korean,Romanization,Frequency,English
 여우,yeou,4.395,fox
 망아지,mangaji,3.243,foal
 곰,gom,0.967,bear
+말,mal,-,horse
+팬더,paendeo,-,panda
+하마,hama,-,hippopotamus
+캥거루,kaenggeoru,-,kangaroo

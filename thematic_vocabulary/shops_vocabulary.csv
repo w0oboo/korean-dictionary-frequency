@@ -1,32 +1,37 @@
 Korean,Romanization,Frequency,English
-경찰서,gyeongchalseo,50.241,police
-시청,sicheong,18.501,city
-구청,gucheong,14.059,district
-도청,docheong,10.864,provincial
-군청,guncheong,7.787,country
-세무서,semuseo,7.091,tax
-동사무소,dongsamuso,5.126,dong
-소방서,sobangseo,2.756,fire
-절,jeol,179.450,temple
+경찰서,gyeongchalseo,50.241,police station
+시청,sicheong,18.501,city hall
+구청,gucheong,14.059,district office
+도청,docheong,10.864,provincial office
+군청,guncheong,7.787,county office
+세무서,semuseo,7.091,tax office
+동사무소,dongsamuso,5.126,neighborhood office
+소방서,sobangseo,2.756,fire station
+절,jeol,179.450,Buddhist temple
 교회,gyohoe,143.688,church
-성당,seongdang,22.760,Catholic
+성당,seongdang,22.760,Catholic church
 시장,sijang,348.968,market
 은행,eunhaeng,174.539,bank
 가게,gage,94.864,store
 식당,sikdang,57.397,restaurant
-백화점,baekwajeom,51.239,department
+백화점,baekwajeom,51.239,department store
 카페,kape,22.845,café
 상점,sangjeom,18.096,shop
 서점,seojeom,15.464,bookstore
-우체국,ucheguk,10.321,post
-커피숍,keopisyop,7.202,coffee
-영화관,yeonghwagwan,6.958,movie
+우체국,ucheguk,10.321,post office
+커피숍,keopisyop,7.202,coffee shop
+영화관,yeonghwagwan,6.958,movie theater
 슈퍼마켓,syupeomaket,6.808,supermarket
-미용실,miyongsil,6.480,beauty
-편의점,pyeonuijeom,4.386,convenience
+미용실,miyongsil,6.480,hair salon
+편의점,pyeonuijeom,4.386,convenience store
 이발소,ibalso,4.212,barbershop
-마트,mat,3.568,mart
-한의원,hanuiwon,3.062,oriental
+마트,mateu,3.568,mart
+한의원,hanuiwon,3.062,oriental medicine clinic
 제과점,jegwajeom,3.051,bakery
 빵집,ppangjip,2.577,bakery
-꽃집,kkotjip,2.406,florist
+꽃집,kkotjip,2.406,flower shop
+약국,yakguk,15.320,pharmacy
+병원,byeongwon,45.680,hospital
+도서관,doseogwan,12.450,library
+학교,hakgyo,156.780,school
+대학교,daehakgyo,89.340,university

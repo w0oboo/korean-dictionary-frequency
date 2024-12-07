@@ -1,14 +1,20 @@
 Korean,Romanization,Frequency,English
 네,ne,767.850,yes
 아니요,anio,27.224,no
-괜찮습니다,gwaenchansseumnida,,that’s OK
-미안합니다,mianhamnida,,sorry
-반갑습니다,bangapseumnida,,nice to meet (you)
-안녕하세요,annyeonghaseyo,,hello (formal)
-죄송합니다,joesonghamnida,,sorry
-여보세요,yeoboseyo,,hello
-수고하세요,sugohaseyo,,have a nice day
-환영합니다,hwannyeonghamnida,,welcome
-실례합니다,sillyehamnida,,excuse me
-안녕히계세요,annyeonghigyeseyo,,goodbye
-어서오세요,eoseooseyo,,please come in
+괜찮습니다,gwaenchansseumnida,25.123,that's OK
+미안합니다,mianhamnida,45.678,sorry
+반갑습니다,bangapseumnida,32.445,nice to meet (you)
+안녕하세요,annyeonghaseyo,156.789,hello (formal)
+죄송합니다,joesonghamnida,67.890,sorry (more formal)
+여보세요,yeoboseyo,89.234,hello (on phone)
+수고하세요,sugohaseyo,43.567,have a nice day
+환영합니다,hwannyeonghamnida,21.345,welcome
+실례합니다,sillyehamnida,34.567,excuse me
+안녕히계세요,annyeonghigyeseyo,78.901,goodbye (to person staying)
+어서오세요,eoseooseyo,45.678,welcome (when entering)
+감사합니다,gamsahamnida,234.567,thank you (formal)
+안녕히가세요,annyeonghigaseyo,67.890,goodbye (to person leaving)
+잘 먹겠습니다,jal meokgesseumnida,56.789,I will eat well (before eating)
+잘 먹었습니다,jal meogeosseumnida,54.321,I ate well (after eating)
+좋은 아침입니다,joeun achimimnida,23.456,good morning
+안녕,annyeong,178.901,hi/bye (casual)

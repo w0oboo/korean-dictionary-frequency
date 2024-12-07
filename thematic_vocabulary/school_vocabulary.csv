@@ -1,65 +1,54 @@
 Korean,Romanization,Frequency,English
 시험,siheom,169.186,examination
 수업,sueop,128.986,class
+고등학교,godeunghakgyo,103.937,high school
+중학교,junghakgyo,68.899,middle school
 방학,banghak,53.958,vacation
-입시,ipsi,47.833,entrance
+대학원,daehagwon,53.386,graduate school
+도서관,doseogwan,52.369,library
+입시,ipsi,47.833,entrance exam
+초등학교,chodeunghakgyo,47.607,elementary school
+대학교,daehakgyo,47.474,university
 전공,jeongong,45.412,major
 축제,chukje,39.440,festival
-과외,gwaoe,30.523,extracurricular
+과외,gwaoe,30.523,tutoring
+운동장,undongjang,29.358,playground
+정문,jeongmun,25.903,main gate
+유치원,yuchiwon,23.233,kindergarten
+기숙사,gisuksa,17.664,dormitory
 동아리,dongari,16.786,club
-졸업식,joreopsik,10.635,graduation
-소풍,sopung,8.968,school
-학생회,haksaenghoe,7.693,student
-수학여행,suhangnyeohaeng,2.980,field
+강당,gangdang,11.606,auditorium
+졸업식,joreopsik,10.635,graduation ceremony
+소풍,sopung,8.968,field trip
+강의실,ganguisil,8.123,classroom
+수영장,suyeongjang,7.850,swimming pool
+학생회,haksaenghoe,7.693,student council
+체육관,cheyukgwan,7.564,gymnasium
+실험실,silheomsil,6.925,laboratory
+수학여행,suhangnyeohaeng,2.980,school trip
 결석,gyeolseok,2.894,absence
-입학식,iphaksik,2.746,entrance
+입학식,iphaksik,2.746,entrance ceremony
+어린이집,eorinijip,2.348,daycare
+후문,humun,2.231,back gate
 자습,jaseup,1.884,self-study
 복습,bokseup,1.649,review
 예습,yeseup,1.251,preview
-고등학교,godeunghakgyo,103.937,high
-중학교,junghakgyo,68.899,middle
-대학원,daehagwon,53.386,graduate
-초등학교,chodeunghakgyo,47.607,elementary
-대학교,daehakgyo,47.474,university
-유치원,yuchiwon,23.233,kindergarten
-어린이집,eorinijip,2.348,daycare
-학원,hagwon,0.655,supplementary
-도서관,doseogwan,52.369,library
-운동장,undongjang,29.358,playground
-정문,jeongmun,25.903,main
-기숙사,gisuksa,17.664,dormitory
-강당,gangdang,11.606,lecture
-강의실,ganguisil,8.123,classroom
-수영장,suyeongjang,7.850,swimming
-체육관,cheyukgwan,7.564,gymnasium
-실험실,silheomsil,6.925,laboratory
-후문,humun,2.231,rear
+학원,hagwon,0.655,academy
 급식소,geupsikso,0.286,cafeteria
-수첩,sucheop,18.076,hand
-가위,gawi,14.890,scissors
-노트,noteu,14.134,note
-연필,yeonpil,13.851,pencil
-볼펜,bolpen,9.537,ballpoint
-공책,gongchaek,8.419,notebook
-만년필,mannyeonpil,3.806,fountain
-지우개,jiugae,3.698,eraser
-풀,pul,3.222,glue
-샤프,syapeu,2.364,mechanical
-사인펜,sainpen,0.734,marker
 학생,haksaeng,428.025,student
 교수,gyosu,366.895,professor
-선생,seonsaeng,343.912,teacher
-학년,hangnyeon,190.198,year
+선생님,seonsaengnim,343.912,teacher
+학년,hangnyeon,190.198,grade/year
 교사,gyosa,141.984,instructor
 선배,seonbae,106.726,senior
-대학생,daehaksaeng,58.768,college
+대학생,daehaksaeng,58.768,college student
 후배,hubae,41.996,junior
 학부모,hakbumo,28.623,parent
-담임,damim,21.886,homeroom
-동창,dongchang,18.090,"alumnus,"
-동기,donggi,14.325,students
-동문,dongmun,12.535,"alumni,"
-중학생,junghaksaeng,12.062,middle-school
-고등학생,godeunghaksaeng,12.013,high
-초등학생,chodeunghaksaeng,6.061,elementary
+담임,damim,21.886,homeroom teacher
+동창,dongchang,18.090,alumnus
+동기,donggi,14.325,classmate
+동문,dongmun,12.535,alumni
+중학생,junghaksaeng,12.062,middle school student
+고등학생,godeunghaksaeng,12.013,high school student
+초등학생,chodeunghaksaeng,6.061,elementary school student
 유치원생,yuchiwonsaeng,1.426,kindergartener

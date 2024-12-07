@@ -1,23 +1,23 @@
 Korean,Romanization,Frequency,English
 일요일,illyoil,40.049,Sunday
 토요일,toyoil,36.833,Saturday
-금요일,geumnyoil,23.555,Friday
+금요일,geumyoil,23.555,Friday
 월요일,wollyoil,22.065,Monday
 수요일,suyoil,13.866,Wednesday
-목요일,mongnyoil,13.471,Thursday
+목요일,mogyoil,13.471,Thursday
 화요일,hwayoil,11.788,Tuesday
 삼월,samwol,28.532,March
 시월,siwol,26.895,October
 사월,sawol,26.790,April
 유월,yuwol,24.006,June
 오월,owol,20.493,May
-일월,irwol,13.646,January
-칠월,chirwol,10.678,July
+일월,ilwol,13.646,January
+칠월,chilwol,10.678,July
 구월,guwol,6.593,September
 이월,iwol,3.380,February
 십이월,sibiwol,3.277,December
-십일월,sibirwol,2.260,November
-팔월,parwol,0.161,August
+십일월,sibilwol,2.260,November
+팔월,palwol,0.161,August
 봄,bom,141.727,spring
 여름,yeoreum,136.559,summer
 겨울,gyeoul,129.706,winter
@@ -27,7 +27,7 @@ Korean,Romanization,Frequency,English
 날,nal,1036.599,day
 시간,sigan,885.514,time
 오늘,oneul,740.458,today
-시,si,684.999,o’clock
+시,si,684.999,o'clock
 저녁,jeonyeok,410.155,evening
 분,bun,405.940,minute
 아침,achim,352.785,morning
@@ -35,34 +35,34 @@ Korean,Romanization,Frequency,English
 내일,naeil,220.904,tomorrow
 세기,segi,181.516,century
 오후,ohu,168.718,p.m.
-올해,olhae,148.324,this
-낮,nat,141.243,day
+올해,olhae,148.324,this year
+낮,nat,141.243,daytime
 새벽,saebyeok,123.848,dawn
-작년,jangnyeon,111.680,last
+작년,jangnyeon,111.680,last year
 오전,ojeon,102.960,a.m.
-내년,naenyeon,97.041,next
+내년,naenyeon,97.041,next year
 어제,eoje,94.649,yesterday
 주,ju,69.067,week
-일주일,iljuil,54.574,one
-밤중,bamjung,44.925,middle
+일주일,iljuil,54.574,one week
+밤중,bamjung,44.925,midnight
 주말,jumal,37.141,weekend
-매년,maenyeon,31.006,every
-매달,maedal,26.457,every
-모레,more,17.174,day
+매년,maenyeon,31.006,every year
+매달,maedal,26.457,every month
+모레,more,17.174,day after tomorrow
 자정,jajeong,16.790,midnight
-매주,maeju,13.547,every
-그저께,geujeokke,9.444,day
+매주,maeju,13.547,every week
+그저께,geujeokke,9.444,day before yesterday
 정오,jeongo,8.387,noon
-매월,maewol,6.620,every
-내일모레,naeilmore,0.834,day
+매월,maewol,6.620,every month
+내일모레,naeilmore,0.834,two days from tomorrow
 밤,bam,0.013,night
 늘,neul,187.404,always
 항상,hangsang,183.108,always
 자주,jaju,132.316,frequently
-언제나,eonjena,117.142,ever
+언제나,eonjena,117.142,always
 가끔,gakkeum,101.368,sometimes
 종종,jongjong,24.121,often
 간혹,ganhok,20.028,sometimes
-어쩌다,eojjeoda,18.922,somehow
+어쩌다,eojjeoda,18.922,occasionally
 때때로,ttaettaero,15.814,sometimes
-어쩌다가,eojjeodaga,10.623,by
+어쩌다가,eojjeodaga,10.623,occasionally

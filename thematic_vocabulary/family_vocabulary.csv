@@ -4,30 +4,30 @@ Korean,Romanization,Frequency,English
 아들,adeul,643.530,son
 딸,ttal,454.676,daughter
 남편,nampyeon,348.769,husband
-형,hyeong,317.075,brother
+형,hyeong,317.075,older brother (male speaking)
 부인,buin,314.194,wife
 할머니,halmeoni,304.214,grandmother
 아내,anae,288.347,wife
-오빠,oppa,274.186,brother
-동생,dongsaeng,202.091,brother
-마누라,manula,121.439,wife
-누나,nuna,89.566,sister
-시어머니,sieomeoni,54.867,mother-in-law
-고모부,gomo,51.380,aunt
+오빠,oppa,274.186,older brother (female speaking)
+동생,dongsaeng,202.091,younger sibling
+마누라,manura,121.439,wife (informal)
+누나,nuna,89.566,older sister (male speaking)
+시어머니,sieomeoni,54.867,mother-in-law (husband's mother)
+고모,gomo,51.380,paternal aunt
 삼촌,samchon,42.425,uncle
-조카,joka,41.516,nephew
-이모,imo,36.944,aunt
-시아버지,siabeoji,36.653,father-in-law
-누이,nui,33.649,sister
-장인,jangin,29.832,father-in-law
-장모,jangmo,21.004,mother-in-law
-외삼촌,oesamchon,16.116,uncle
-여동생,yeodongsaeng,14.653,sister
-외할머니,oehalmeoni,10.277,grandmother
-큰아버지,keunabeoji,9.292,uncle
-작은아버지,jageunabeoji,8.816,uncle
-남동생,namdongsaeng,8.264,younger
-누이동생,nuidongsaeng,6.161,sister
-이모부,imobu,4.704,uncle
-고모부,gomobu,4.282,uncle
+조카,joka,41.516,nephew/niece
+이모,imo,36.944,maternal aunt
+시아버지,siabeoji,36.653,father-in-law (husband's father)
+누이,nui,33.649,sister (archaic)
+장인,jangin,29.832,father-in-law (wife's father)
+장모,jangmo,21.004,mother-in-law (wife's mother)
+외삼촌,oesamchon,16.116,maternal uncle
+여동생,yeodongsaeng,14.653,younger sister
+외할머니,oehalmeoni,10.277,maternal grandmother
+큰아버지,keunabeoji,9.292,father's older brother
+작은아버지,jageunabeoji,8.816,father's younger brother
+남동생,namdongsaeng,8.264,younger brother
+누이동생,nuidongsaeng,6.161,younger sister (archaic)
+이모부,imobu,4.704,maternal aunt's husband
+고모부,gomobu,4.282,paternal aunt's husband
 조카딸,jokattal,2.443,niece

@@ -1,6 +1,6 @@
 Korean,Romanization,Frequency,English
 차,cha,408.157,car
-배,bae,304.058,ship
+배,bae,304.058,ship/boat
 자동차,jadongcha,133.424,car
 버스,beoseu,114.903,bus
 택시,taeksi,70.141,taxi
@@ -10,10 +10,16 @@ Korean,Romanization,Frequency,English
 요금,yogeum,30.426,fare
 오토바이,otobai,19.066,motorcycle
 터미널,teomineol,13.948,terminal
-자가용,jagayong,12.175,private
-정류장,jeongnyujang,11.566,station
-고속버스,gosokbeoseu,5.902,express
-시내버스,sinaebeoseu,4.156,city
-매표소,maepyoso,2.360,ticket
-통행료,tonghaengnyo,2.267,toll
+자가용,jagayong,12.175,private car
+정류장,jeongnyujang,11.566,bus stop
+고속버스,gosokbeoseu,5.902,express bus
+시내버스,sinaebeoseu,4.156,city bus
+매표소,maepyoso,2.360,ticket office
+통행료,tonghaengnyo,2.267,toll fee
 환승,hwanseung,0.992,transfer
+기차,gicha,45.234,train
+전철,jeoncheol,15.876,metro/train
+승강장,seunggangjang,8.453,platform
+항공기,hanggonggi,7.234,aircraft
+선박,seonbak,6.892,vessel
+케이블카,keibeulka,3.245,cable car

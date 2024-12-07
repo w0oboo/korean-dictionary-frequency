@@ -14,7 +14,7 @@ Korean,Romanization,Frequency,English
 머리핀,meoripin,0.899,hairpin
 시계,sigye,0.180,watch
 치마,chima,67.176,skirt
-바지,baji,62.120,"pants,"
+바지,baji,62.120,pants
 모자,moja,53.454,hat
 양복,yangbok,26.009,suit
 코트,koteu,21.630,coat
@@ -27,7 +27,7 @@ Korean,Romanization,Frequency,English
 스타킹,seutaking,5.095,stocking
 투피스,tupiseu,2.199,two-piece
 미니스커트,miniseukeoteu,2.004,miniskirt
-저고리,jeogori,41.956,Korean
+저고리,jeogori,41.956,Korean traditional jacket
 한복,hanbok,29.391,hanbok
-버선,beoseon,18.807,Korean
-두루마기,durumagi,13.855,Korean
+버선,beoseon,18.807,Korean traditional socks
+두루마기,durumagi,13.855,Korean traditional overcoat

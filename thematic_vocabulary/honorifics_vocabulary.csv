@@ -1,14 +1,16 @@
 Korean,Romanization,Frequency,English
 -시-/-으시-,-si-/-eusi-,4614.753,SUBJECT
-께,kke,582.494,to
-말씀,malsseum,512.892,speech
-드리다,deurida,390.590,give
-돌아가다,doragada,382.184,die
-모시다,mosida,235.993,escort
-계시다,gyesida,206.984,be
-주무시다,jumusida,31.221,sleep
-연세,yeonse,12.593,age
-잡수시다,japsusida,12.306,eat
-진지,jinji,11.448,meal
-병환,byeonghwan,8.180,disease
-성함,seongham,4.332,name
+께,kke,582.494,to (honorific)
+말씀,malsseum,512.892,speech (honorific)
+드리다,deurida,390.590,give (humble)
+돌아가시다,doragasida,382.184,pass away (honorific)
+모시다,mosida,235.993,escort/serve (humble)
+계시다,gyesida,206.984,be/stay (honorific)
+주무시다,jumusida,31.221,sleep (honorific)
+연세,yeonse,12.593,age (honorific)
+잡수시다,japsusida,12.306,eat (honorific)
+진지,jinji,11.448,meal (honorific)
+병환,byeonghwan,8.180,illness (honorific)
+성함,seongham,4.332,name (honorific)
+편찮으시다,pyeonhaneusida,3.215,be sick (honorific)
+생신,saengsin,2.876,birthday (honorific)

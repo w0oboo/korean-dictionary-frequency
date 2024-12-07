@@ -1,6 +1,6 @@
 Korean,Romanization,Frequency,English
 로마,roma,45.476,Rome
-뉴욕,nyuyok,40.004,New
+뉴욕,nyuyok,40.004,New York
 파리,pari,36.513,Paris
 북경,bukgyeong,29.784,Beijing
 동경,donggyeong,28.721,Tokyo
@@ -12,32 +12,32 @@ Korean,Romanization,Frequency,English
 부산,busan,123.028,Busan
 대구,daegu,99.719,Daegu
 광주,gwangju,95.970,Gwangju
-평양,pyeongyang,81.478,Pyeongyang
+평양,pyeongyang,81.478,Pyongyang
 제주,jeju,81.247,Jeju
 인천,incheon,59.978,Incheon
-제주도,jejudo,58.355,Jeju
+제주도,jejudo,58.355,Jeju Island
 대전,daejeon,49.642,Daejeon
 전주,jeonju,40.225,Jeonju
 경주,gyeongju,35.158,Gyeongju
 울산,ulsan,32.020,Ulsan
-한양,hannyang,26.488,Hannyang
+한양,hanyang,26.488,Hanyang
 한국,hanguk,880.505,Korea
 일본,ilbon,750.357,Japan
 미국,miguk,724.469,USA
 중국,jungguk,467.295,China
-북한,bukan,462.196,North
+북한,bukhan,462.196,North Korea
 러시아,reosia,138.253,Russia
-영국,yeongguk,129.353,England
+영국,yeongguk,129.353,United Kingdom
 독일,dogil,129.274,Germany
 프랑스,peurangseu,125.637,France
 인도,indo,60.634,India
 이라크,irakeu,58.604,Iraq
-남한,namhan,53.363,South
+남한,namhan,53.363,South Korea
 이스라엘,iseurael,46.446,Israel
 대만,daeman,43.102,Taiwan
-홍콩,hongkong,34.409,Hong
-대한민국,daehanminguk,31.393,Republic
-이탈리아,itallia,31.122,Italy
+홍콩,hongkong,34.409,Hong Kong
+대한민국,daehanminguk,31.393,Republic of Korea
+이탈리아,italia,31.122,Italy
 베트남,beteunam,28.152,Vietnam
 스페인,seupein,23.097,Spain
 그리스,geuriseu,21.531,Greece
@@ -55,11 +55,11 @@ Korean,Romanization,Frequency,English
 고구려,goguryeo,45.471,Goguryeo
 백제,baekje,42.713,Baekje
 발해,balhae,15.292,Balhae
-고조선,gojoseon,6.923,Old
+고조선,gojoseon,6.923,Gojoseon
 가야,gaya,2.013,Gaya
 미,mi,269.781,USA
 북,buk,112.929,North
-한,han,85.841,South
+한,han,85.841,Korea
 일,il,58.397,Japan
 영,yeong,39.816,England
 프,peu,29.817,France
@@ -73,7 +73,7 @@ Korean,Romanization,Frequency,English
 수표,supyo,22.853,check
 동전,dongjeon,18.998,coin
 위안,wian,13.825,yuan
-지폐,jipye,12.736,bills
+지폐,jipye,12.736,bill
 파운드,paundeu,4.617,pound
 프랑,peurang,3.483,franc
-체크카드,chekeukadeu,0.013,check
+체크카드,chekeukadeu,0.013,debit card

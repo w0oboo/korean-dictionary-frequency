@@ -1,10 +1,10 @@
 Korean,Romanization,Frequency,English
-희다,huida,114.343,to
-하얗다,hayata,94.291,to
-빨갛다,ppalgata,54.133,to
-노랗다,norata,34.437,to
-까맣다,kkamata,30.003,to
-파랗다,parata,26.185,to
+희다,huida,114.343,to be white
+하얗다,hayahda,94.291,to be white
+빨갛다,ppalgahda,54.133,to be red
+노랗다,norahda,34.437,to be yellow
+까맣다,kkamahda,30.003,to be black
+파랗다,parahda,26.185,to be blue
 검정,geomjeong,19.387,black
 노랑,norang,15.056,yellow
 흰색,huinsaek,14.337,white
@@ -21,9 +21,9 @@ Korean,Romanization,Frequency,English
 초록색,choroksaek,5.397,green
 보라색,borasaek,5.090,purple
 분홍색,bunhongsaek,4.419,pink
-하늘색,haneulsaek,3.516,sky
-핑크,pink,3.197,pink
-연두색,yeondusaek,2.844,yellowish
+하늘색,haneulsaek,3.516,sky blue
+핑크,pingkeu,3.197,pink
+연두색,yeondusaek,2.844,light green
 하얀색,hayansaek,2.178,white
 하양,hayang,1.836,white
 주황색,juhwangsaek,1.805,orange

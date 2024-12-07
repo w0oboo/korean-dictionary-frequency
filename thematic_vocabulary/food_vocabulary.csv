@@ -3,30 +3,30 @@ Korean,Romanization,Frequency,English
 차,cha,40.159,tea
 우유,uyu,34.644,milk
 콜라,kolla,11.658,cola
-생수,saengsu,7.908,bottled
+생수,saengsu,7.908,bottled water
 주스,juseu,6.649,juice
 사이다,saida,5.069,Sprite
-녹차,nokcha,4.257,green
-식혜,sikye,3.967,sweet
-보리차,boricha,2.752,barley
-홍차,hongcha,1.920,black
-수정과,sujeonggwa,0.732,sujeonggwa
-생강차,saenggangcha,0.679,ginger
-냉커피,naengkeopi,0.548,iced
-아이스커피,aiseukeopi,0.096,iced
+녹차,nokcha,4.257,green tea
+식혜,sikye,3.967,sweet rice drink
+보리차,boricha,2.752,barley tea
+홍차,hongcha,1.920,black tea
+수정과,sujeonggwa,0.732,cinnamon punch
+생강차,saenggangcha,0.679,ginger tea
+냉커피,naengkeopi,0.548,iced coffee
+아이스커피,aiseukeopi,0.096,iced coffee
 삶다,samda,284.044,boil
-담다,damda,182.596,put
+담다,damda,182.596,put in
 끓이다,kkeurida,71.257,boil
 굽다,gupda,59.682,roast
 담그다,damgeuda,43.587,soak
-빚다,bitda,43.507,make
+빚다,bitda,43.507,make (alcohol)
 찌다,jjida,41.675,steam
 다지다,dajida,41.463,mince
 비비다,bibida,33.541,mix
 썰다,sseolda,33.510,chop
-치다,chida,32.119,lubricate
-볶다,bokda,26.422,stirfry
-무치다,muchida,5.667,seasoning
+치다,chida,32.119,pound
+볶다,bokda,26.422,stir-fry
+무치다,muchida,5.667,season
 버무리다,beomurida,5.188,mix
 데치다,dechida,4.126,blanch
 맥주,maekju,45.629,beer
@@ -34,8 +34,8 @@ Korean,Romanization,Frequency,English
 막걸리,makgeolli,24.948,makgeolli
 양주,yangju,16.627,liquor
 와인,wain,8.614,wine
-동동주,dongdongju,1.524,dongdongju
-고량주,goryangju,0.820,kaoliang
+동동주,dongdongju,1.524,rice wine
+고량주,goryangju,0.820,kaoliang liquor
 게,ge,49.529,crab
 오징어,ojingeo,22.308,squid
 돼지고기,dwaejigogi,15.930,pork
@@ -43,44 +43,44 @@ Korean,Romanization,Frequency,English
 새우,saeu,11.583,shrimp
 연어,yeoneo,10.854,salmon
 명태,myeongtae,10.176,pollack
-갈치,galchi,9.838,cutlass
+갈치,galchi,9.838,cutlassfish
 문어,muneo,8.313,octopus
 고등어,godeungeo,8.281,mackerel
-낙지,nakji,8.083,small
-조기,jogi,6.802,yellow
-굴비,gulbi,5.015,dried
+낙지,nakji,8.083,small octopus
+조기,jogi,6.802,yellow croaker
+굴비,gulbi,5.015,dried yellow croaker
 닭고기,dakgogi,4.950,chicken
 장어,jangeo,4.880,eel
 소고기,sogogi,4.428,beef
-삼치,samchi,3.423,Spanish
+삼치,samchi,3.423,Spanish mackerel
 꽁치,kkongchi,3.371,saury
-꽃게,kkotge,3.298,blue
+꽃게,kkotge,3.298,blue crab
 참치,chamchi,2.354,tuna
 바지락,bajirak,1.681,clam
 양고기,yanggogi,0.985,lamb
 만두,mandu,13.236,dumpling
-짜장면,jjajangmyeon,7.367,jjajangmyeon
-짬뽕,jjamppong,2.713,jjamppong
-볶음밥,bokkeumbap,2.039,fried
-탕수육,tangsuyuk,1.640,Chinese
-튀김,twigim,5.303,fried
+짜장면,jjajangmyeon,7.367,black bean noodles
+짬뽕,jjamppong,2.713,spicy seafood noodle soup
+볶음밥,bokkeumbap,2.039,fried rice
+탕수육,tangsuyuk,1.640,sweet and sour pork
+튀김,twigim,5.303,fried food
 우동,udong,4.292,udon
 초밥,chobap,2.154,sushi
-돈까스,donkkaseu,1.769,pork
-생선회,saengseonhoe,1.720,raw
+돈까스,donkkaseu,1.769,pork cutlet
+생선회,saengseonhoe,1.720,raw fish
 김치,gimchi,40.704,kimchi
-김밥,gimbap,11.413,rice
-갈비,galbi,10.497,rib
-냉면,naengmyeon,7.728,cold
-떡볶이,tteokbokki,6.840,stirfried
-미역국,miyeokguk,5.905,seaweed
-불고기,bulgogi,5.733,bulgogi
-떡국,tteokguk,4.984,rice
-삼겹살,samgyeopsal,4.688,pork
-비빔밥,bibimbap,4.458,bibimbap
-된장찌개,doenjangjjigae,2.850,bean
-김치찌개,gimchijjigae,1.891,kimchi
-잡채,japchae,1.541,japchae
+김밥,gimbap,11.413,rice roll
+갈비,galbi,10.497,ribs
+냉면,naengmyeon,7.728,cold noodles
+떡볶이,tteokbokki,6.840,spicy rice cakes
+미역국,miyeokguk,5.905,seaweed soup
+불고기,bulgogi,5.733,marinated beef
+떡국,tteokguk,4.984,rice cake soup
+삼겹살,samgyeopsal,4.688,pork belly
+비빔밥,bibimbap,4.458,mixed rice
+된장찌개,doenjangjjigae,2.850,soybean paste stew
+김치찌개,gimchijjigae,1.891,kimchi stew
+잡채,japchae,1.541,glass noodles
 피자,pija,10.367,pizza
 햄버거,haembeogeo,5.885,hamburger
 샐러드,saelleodeu,3.207,salad
@@ -94,7 +94,7 @@ Korean,Romanization,Frequency,English
 포도,podo,13.846,grape
 복숭아,boksunga,11.349,peach
 오렌지,orenji,10.766,orange
-참외,chamoe,9.985,oriental
+참외,chamoe,9.985,Korean melon
 딸기,ttalgi,8.676,strawberry
 귤,gyul,7.941,mandarin
 토마토,tomato,7.052,tomato
@@ -108,68 +108,68 @@ Korean,Romanization,Frequency,English
 쌀,ssal,227.300,rice
 빵,ppang,50.428,bread
 생선,saengseon,35.997,fish
-국수,guksu,23.138,noodle
+국수,guksu,23.138,noodles
 밀가루,milgaru,18.377,flour
 두부,dubu,17.863,tofu
-야채,yachae,15.667,vegetable
+야채,yachae,15.667,vegetables
 고기,gogi,3.136,meat
-유제품,yujepum,0.969,dairy
+유제품,yujepum,0.969,dairy products
 식사,siksa,89.615,meal
 식당,sikdang,57.397,restaurant
 과자,gwaja,25.362,snacks
-껌,kkeom,14.856,chewing
+껌,kkeom,14.856,gum
 사탕,satang,11.614,candy
 레스토랑,reseutorang,11.311,restaurant
-아이스크림,aiseukeurim,10.043,ice
-한식,hansik,7.928,Korean
-중국집,junggukjip,5.944,Chinese
+아이스크림,aiseukeurim,10.043,ice cream
+한식,hansik,7.928,Korean food
+중국집,junggukjip,5.944,Chinese restaurant
 초콜릿,chokollit,4.467,chocolate
 케익,keik,2.660,cake
 스프,seupeu,1.795,soup
-일식집,ilsikjip,1.571,Japanese
-일식,ilsik,1.382,Japanese
+일식집,ilsikjip,1.571,Japanese restaurant
+일식,ilsik,1.382,Japanese food
 디저트,dijeoteu,1.260,dessert
-중식,jungsik,1.144,Chinese
-양식,yangsik,0.101,Western
+중식,jungsik,1.144,Chinese food
+양식,yangsik,0.101,Western food
 꿀,kkul,34.700,honey
-간장,ganjang,31.374,soy
-고추,gochu,25.283,red
-된장,doenjang,14.671,soy
-고추장,gochujang,10.110,red
-참기름,chamgireum,9.898,sesame
+간장,ganjang,31.374,soy sauce
+고추,gochu,25.283,red pepper
+된장,doenjang,14.671,soybean paste
+고추장,gochujang,10.110,red pepper paste
+참기름,chamgireum,9.898,sesame oil
 식초,sikcho,3.917,vinegar
-식용유,sigyongnyu,3.595,cooking
+식용유,sigyongnyu,3.595,cooking oil
 마요네즈,mayonejeu,1.346,mayonnaise
 케첩,kecheop,0.475,ketchup
 후추,huchu,0.052,pepper
 칼,kal,183.878,knife
-솥,sot,42.853,Korean
-접시,jeopsi,27.651,dish
+솥,sot,42.853,pot
+접시,jeopsi,27.651,plate
 냉장고,naengjanggo,24.242,refrigerator
 숟가락,sutgarak,18.937,spoon
 젓가락,jeotgarak,14.128,chopsticks
 냄비,naembi,12.145,pot
-도마,doma,8.530,chopping
+도마,doma,8.530,cutting board
 포크,pokeu,5.780,fork
 대접,daejeop,4.553,bowl
 나이프,naipeu,2.803,knife
 국자,gukja,2.735,ladle
 믹서,mikseo,2.302,blender
-프라이팬,peuraipaen,1.511,frying
+프라이팬,peuraipaen,1.511,frying pan
 전자레인지,jeonjareinji,1.165,microwave
-가스레인지,gaseureinji,1.090,gas
-공기,gonggi,0.855,bowl
-후라이팬,huraipaen,0.776,frying
-부엌칼,bueokkal,0.627,kitchen
-파,pa,97.231,Welsh
+가스레인지,gaseureinji,1.090,gas range
+공기,gonggi,0.855,rice bowl
+후라이팬,huraipaen,0.776,frying pan
+부엌칼,bueokkal,0.627,kitchen knife
+파,pa,97.231,green onion
 무,mu,73.745,radish
 오이,oi,31.608,cucumber
 호박,hobak,24.179,pumpkin
 마늘,maneul,21.576,garlic
 옥수수,oksusu,21.083,corn
-고구마,goguma,14.993,sweet
+고구마,goguma,14.993,sweet potato
 양파,yangpa,11.905,onion
-콩나물,kongnamul,8.968,bean
+콩나물,kongnamul,8.968,bean sprouts
 당근,danggeun,7.374,carrot
 상추,sangchu,5.477,lettuce
 시금치,sigeumchi,2.904,spinach
