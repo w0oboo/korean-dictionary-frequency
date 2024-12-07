@@ -1,0 +1,201 @@
+rank,lemma,romanization,pos,posExpanded,gloss,example,frequency,dispersion
+1,를/을/ㄹ,reul/eul/l,p.case,particle (case),OBJECT MARKER,아이들은 가게에서 아이스크림을 먹었어요. — The children had ice cream at the shop.,67583,0.95
+2,가/이,ga/i,p.case,particle (case),SUBJECT MARKER,오랜만에 우리가 영화를 같이 봤군요. — It’s been a while since we’ve seen a movie together.,59290,0.86
+3,는/은/ㄴ,neun/eun/n,p.sub.,subsidiary particle,TOPIC MARKER,"저는 나중에 변호사가 되고 싶습니다. — As for me, I would like to become a lawyer someday.",48881,0.95
+4,ㄴ/은,n/eun,e.r.,relativizing ending,"RELATIVE, ADJECTIVAL PRESENT; VERBAL PAST",저기 다른 사람들보다 키가 큰 여자 보이세요? — Do you see the woman who is taller than the others?,44313,0.97
+5,아/어/야/여/애,a/eo/ya/yeo/ae,e.,"ending, connective, final","CONNECTIVE, ADVERBIAL",이 책을 읽어 보세요. — Try to read this book.,42540,0.87
+6,았/었/였,at/eot/yeot,s.,suffix,PAST TENSE,약속에 좀 늦었다. — We were late for an appointment.,41889,0.93
+7,이다,ida,c.,copula,"COPULA, be",언니도 학생입니다. — My sister is also a student.,41409,0.87
+8,에,e,p.case,particle (case),LOCATION,서연이는 아침 일찍 학교에 갔다. — Seoyeon went to school early in the morning.,35244,0.92
+9,고,go,e.,"ending, connective, final","CONNECTIVE, ADVERBIAL",저는 먼저 이를 닦고 샤워합니다. — I first brush my teeth and then take a shower.,33011,0.87
+10,의,ui,p.case,particle (case),POSSESSIVE,친구의 이름이 뭐예요? — What’s your friend’s name?,32439,0.98
+11,다,da,e.,"ending, connective, final","FINAL, STATEMENT",마당에 꽃이 참 많다. — There are s. many flowers in the garden.,28750,0.96
+12,는,neun,e.r.,relativizing ending,"RELATIVE, PRESENT",저기서 밥을 먹는 사람이 민준이예요. — The person who is eating over there is Minjun.,26943,0.93
+13,것,geot,n.b.,noun (bound),"thing, way",민준이가 찾는 것이 뭡니까? — What is the thing that Minjun is looking for?,22071,0.86
+14,하다,hada,v.,verb,do,어머니가 피아노 공연을 하고 계세요. — My mother is doing a piano recital.,20576,0.73
+15,로/으로,ro/euro,p.case,particle (case),DIRECTION; INSTRUMENT; STATUS,"교실로 가려면 이쪽으로 가세요. — If you want to get to class, go this way.",20353,0.96
+16,ㄹ/을,l/eul,e.r.,relativizing ending,"RELATIVE, FUTURE",난 점심을 먹고 커피를 마실 거예요. — I’ll eat lunch and drink coffee.,18893,0.93
+17,도,do,p.sub.,subsidiary particle,"also, too","민지는 영화도 많이 본다. — Minji watches movies a lot, too.",13647,0.93
+18,게,ge,e.,"ending, connective, final","CONNECTIVE, ADVERBIAL",된장찌개 끓이게 두부 좀 사 오세요. — Go and buy some tofu to make bean paste soup.,12947,0.85
+19,들,deul,s.,suffix,PLURAL,고등학생들은 일찍 등교하거든. — The high school students go to school early.,12733,0.96
+20,그,geu,adn.,adnominal,that,그 사람 이름이 어떻게 돼요? — What is that person’s name?,12636,0.62
+21,있다,itda,a.,adjective,exist; have,기숙사 지하에 세탁기가 있어. — There is a laundry machine in the basement of the dormitory.,12460,0.85
+22,에서,eseo,p.case,particle (case),"LOCATION, in, on, at",사람들이 운동장에서 조깅을 한다. — People jog in the playground.,11752,0.94
+23,아서/어서/여서,aseo/eoseo/yeoseo,e.,"ending, connective, final","CONNECTIVE, because, since",오늘은 너무 바빠서 영화를 볼 수 없어요. — I can’t watch movies since I am s. busy.,10869,0.69
+24,아/어/야/여/애,a/eo/ya/yeo/ae,e.,"ending, connective, final",FINAL,온 가족이 식탁에 앉아서 저녁을 먹어. — The whole family sits at the table and eats dinner.,9658,0.37
+25,지,ji,e.,"ending, connective, final","CONNECTIVE, ADVERBIAL",다음 주에는 학교에 가지 않아. — I’m not going to school next week.,9514,0.89
+26,있다,itda,aux.,auxiliary predicate,PRESENT PROGRESSIVE,나는 TV를 보고 있다. — I’m watching TV.,9247,0.99
+27,되다,doeda,v.,verb,become,서연이는 나중에 의사가 되고 싶대. — Seoyeon says she wants to be a doctor someday.,9140,0.79
+28,ㄴ다/는다,nda/neunda,e.,"ending, connective, final","FINAL, VERBAL PRESENT","휴가 때, 지훈이는 여자 친구와 제주도에 간다. — Jihun goes to Jeju island with his girlfriend during his vacations.",8675,0.91
+29,면/으면,myeon/eumyeon,e.,"ending, connective, final","CONNECTIVE, CONDITION, if","목이 마르면 물을 마셔라. — If you are thirsty, drink water.",7388,0.77
+30,ㅂ니다/습니다,pnida/seumnida,e.,"ending, connective, final",FINAL (POLITE),할머니께서 곧 집에 오십니다. — Grandmother comes home soon.,7247,0.65
+31,가다,gada,v.,verb,go,이제 짐을 싸서 서울로 갑시다. — Let’s pack and go to Seoul now.,7111,0.5
+32,기,gi,e.n.,nominalizing ending,"GERUND, ~ing",산에 가기가 힘드시나요? — Is it difficult for you to go to the mountains?,7097,0.97
+33,와/과,wa/gwa,p.conj.,particle (conjunction),and,어머니와 아버지가 여행을 가셨다. — My mother and father went on a trip.,6891,0.96
+34,나,na,pron.,pronoun,I,나는 내가 어떤 사람인지를 모르겠어. — I don’t know what kind of person I am.,6791,0.76
+35,이,i,adn.,adnominal,this,이 친구는 참 성실하고 정직한 사람이지. — This friend is really sincere and honest.,6229,0.76
+36,없다,eopda,a.,adjective,do not have,지금은 돈이 없어. — Now I don’t have money.,6186,0.91
+37,수,s.,n.b.,noun (bound),"way, method",그 광경에 모두가 웃음을 참을 수가 없었다. — Everyone couldn’t help but laugh at the scene.,5896,0.96
+38,보다,boda,v.,verb,see,"주말에는 혼자 영화를 보기도 한다. — On the weekends, I sometimes watch movies alone.",5867,0.72
+39,않다,anda,aux.,auxiliary predicate,NEGATION,아버지는 집에 계시지 않을 거예요. — Dad may not be home.,5751,0.94
+40,말,mal,n.,noun,"language; speech, talk",아이는 쉬지 않고 말을 했다. — The child never stopped talking.,5568,0.64
+41,사람,saram,n.,noun,person,친절한 사람은 직장에서 인기가 많아요. — A kind person is always popular at work.,5559,0.8
+42,아요/어요/예요/애요/여요,ayo/eoyo/yeyo/aeyo/yeoyo,e.,"ending, connective, final","STATEMENT (INFORMAL, POLITE)",밖에 눈이 와요. — It is snowing outside.,5465,0.43
+43,가/이,ga/i,p.case,particle (case),COMPLEMENT MARKER,지훈이는 가수가 아닙니다. — Jihun is not a singer.,5434,0.89
+44,하다,hada,aux.,auxiliary predicate,CAUSATIVE,현우가 결국 그 애를 울게 했지. — Hyunwu made that child cry in the end.,4951,0.99
+45,시/으시,si/eusi,s.,suffix,SUBJECT (HONORIFIC),할머니는 방에서 TV를 보신다. — My grandmother watches TV in her room.,4615,0.56
+46,한,han,adn.,adnominal,one,한 사람이 왔다. — One person came.,4566,0.78
+47,는데,neunde,e.,"ending, connective, final","FINAL, BACKGROUND; CONTRAST, but, however","딸 아이가 밥을 잘 먹는데 몸이 약해요. — My daughter eats well, but she is still weak.",4504,0.56
+48,며/으며,myeo/eumyeo,e.,"ending, connective, final","CONNECTIVE, while, as",선생님들은 차를 마시며 이야기를 나누고 계셨다. — The teachers were talking while drinking tea.,4312,0.99
+49,오다,oda,v.,verb,come,이쪽으로 오세요. — Come this way.,4300,0.57
+50,구,gu,e.,"ending, connective, final",FINAL (COLLOQUIAL),건강하구. — Stay healthy.,4202,0.14
+51,우리,uri,pron.,pronoun,we; our,"우리 집에서 내일 가족 모임이 있거든. — Tomorrow, there’s a family gathering at our house.",4158,0.8
+52,아니다,anida,c.,copula,"COPULA, NEGATIVE, not be, there is no",이 책은 제가 산 책이 아니예요. — This book is not the one I bought.,4154,0.88
+53,다,da,e.,"ending, connective, final","CONNECTIVE, QUOT.",그 사람 고생하고 있다 하더라. — They say he has been through tough times.,4047,0.55
+54,겠,get/geot,s.,suffix,FUTURE,저는 몇 년 안에 꼭 유럽에 가겠어요. — I will go to Europe in a few years.,4024,0.72
+55,때,ttae,n.b.,noun (bound),"time, when",바쁠 때 건강을 잘 관리해야 해. — Take good care of your health when you are busy.,4021,0.83
+56,만,man,p.sub.,subsidiary particle,only,왜 저만 야단치세요? — Why do you scold only me?,3989,0.89
+57,그,geu,pron.,pronoun,he,제 여동생은 그를 믿었어요. — My younger sister trusted him.,3989,0.97
+58,그렇다,geureotda,a.,adjective,is like that,"너도 착한데 동생도 그렇구나. — You are well behaved, and your sister is like that, too.",3946,0.6
+59,아야/어야,aya/eoya,e.,"ending, connective, final","CONNECTIVE, CONDITION",이제 출발하셔야 합니까? — Do you have to leave now?,3907,0.87
+60,던,deon,e.r.,relativizing ending,"RELATIVE, RETROSPECT",거긴 내가 살던 동네예요. — It is the town where I used to live.,3677,0.98
+61,같다,gatda,a.,adjective,be the same,나와 언니는 같은 색을 좋아합니다. — My sister and I like the same color.,3666,0.85
+62,주다,juda,aux.,auxiliary predicate,give,서연이가 제 숙제를 도와 줍니다. — Seoyeon helps me with my homework.,3525,0.8
+63,라/으라,ra/eura,e.,"ending, connective, final","FINAL, COMMAND",이제 그만 놀고 공부 좀 해라. — Now stop playing and study.,3416,0.7
+64,그러다,geureoda,v.,verb,do so,"나는 배신감을 느끼는데 너도 그러니? — I feel betrayed and wonder if you do, too?",3405,0.46
+65,다는,daneun,e.r.,relativizing ending,"RELATIVE, QUOT.",민지가 취직했다는 이야기를 못 들었니? — Didn’t you hear that Minji got a job?,3306,0.98
+66,와/과,wa/gwa,p.case,particle (case),"COMITATIVE, with",나는 친구와 싸웠어. — I argued with my friend.,3247,0.97
+67,안,an,adv.,adverb,"NEGATION, not",지민이는 아직 집에 안 왔는데. — Jimin hasn’t come home yet.,3236,0.42
+68,아,a,exc.,exclamative,"ah, oh, alas","아! 내가 실수했어요. — Oh, I made a mistake.",3160,0.11
+69,보다,boda,aux.,auxiliary predicate,try,제 얘기를 좀 들어 보세요. — Please try to listen to me.,3118,0.76
+70,그것,geugeot,pron.,pronoun,"it, that thing",그것은 제가 제일 좋아하는 책입니다. — It’s my favorite book.,3096,0.73
+71,지,ji,e.,"ending, connective, final","FINAL, RETROSPECT",그때 친구가 얼마나 울던지. — My friend cried s. much then.,2982,0.51
+72,ㅁ/음,m/eum,e.n.,nominalizing ending,"GERUND, ~ing",내일은 비가 올 것임이 분명해. — It’s obvious that it will be raining tomorrow.,2951,0.85
+73,니/으니,ni/euni,e.,"ending, connective, final","CONNECTIVE, because",이렇게 다시 만나니 너무 좋아요. — It’s s. good to meet you again.,2866,0.64
+74,그런,geureon,adn.,adnominal,"such, that sort of",요즘 세상에 그런 사람은 보기 드물단다. — It’s rare to see that sort of person in today’s world.,2866,0.52
+75,또,tto,adv.,adverb,again,민준이가 또 컴퓨터 게임을 하고 있니? — Is Minjun playing a computer game again?,2814,0.67
+76,일,il,n.,noun,"work, task",사원들이 하루 일을 마치고 퇴근하네. — The employees are going home after finishing the day’s work.,2728,0.91
+77,니까/으니까,nikka/eunikka,e.,"ending, connective, final","CONNECTIVE, because","날씨가 추워지니까 거리에 사람이 없네. — Because it got cold, there are few people on the street.",2678,0.31
+78,면서/으면서,myeonseo/eumyeonseo,e.,"ending, connective, final","CONNECTIVE, and, while",그 가수는 노래 부르면서 춤을 잘 추더라. — That singer dances while singing a song well.,2641,0.92
+79,년,nyeon,n.b.,noun (bound),year,올해가 몇 년이던가요? — What year is it?,2604,0.9
+80,알다,alda,v.,verb,know,모든 사람이 그 가수를 알지. — Everyone knows the singer.,2598,0.8
+81,에게,ege,p.case,particle (case),"DATIVE, to",어젯밤에 민지는 친구에게 편지를 썼어요. — Last night Minji wrote a letter to her friend.,2579,1.0
+82,그래,geurae,exc.,exclamative,"yes, OK","그래 잘 알겠다. — OK, I got it.",2498,0.16
+83,내,nae,pron.,pronoun,"I, me",내가 친구를 가족에게 소개했어. — I introduced my friend to my family.,2423,0.56
+84,지다,jida,aux.,auxiliary predicate,become,날씨가 많이 추워졌다. — It became very cold.,2397,0.97
+85,라고/으라고,rago/eurago,e.,"ending, connective, final","CONNECTIVE, QUOT., COMMAND",어머니께서 약을 꼭 먹으라고 하세요. — My mother tells me to make sure to take the medicine.,2376,0.84
+86,다,da,adv.,adverb,all,어젯밤에야 일이 다 끝났다. — The task was completed only last night.,2337,0.46
+87,까지,kkaji,p.case,particle (case),to; till; even,내일 아침까지 서류를 작성해 놓으세요. — Finish the documentation by tomorrow morning.,2335,0.96
+88,집,jip,n.,noun,house,집을 짓는 게 쉬운 일이 아닐 거예요. — It won’t be easy to build a house.,2314,0.67
+89,대하다,daehada,v.,verb,"treat, see",아이들은 선생님을 존경심을 가지고 대했어. — Children treated the teacher with respect.,2304,0.93
+90,이렇다,ireotda,a.,adjective,"be so, be like that",그가 다른 사람들에게도 이럴까 궁금해. — I wonder if he is like that with others.,2264,0.48
+91,등,deung,n.b.,noun (bound),et cetera,"불고기, 김치 등과 같은 음식이 해외에서 인기가 있다. — Foods like bulgogi and kimchi are popular abroad.",2240,0.75
+92,가지다,gajida,v.,verb,have,그는 상당한 재산을 가지고 있었어. — He had a fair amount of assets.,2192,0.59
+93,나오다,naoda,v.,verb,"come out, exit","아직 추우니 밖에 나오지 마십시오. — Please don’t come out, because it is still cold.",2185,0.72
+94,살다,salda,v.,verb,live,직장 근처에 살면 여러가지로 편할 걸. — It will be convenient in many ways to live close to work.,2122,0.71
+95,라는/으라는,raneun/euraneun,e.r.,relativizing ending,"RELATIVE, QUOT.","그때는 좋은 학교에 가라는 부모님이 싫었어요. — Back then, I hated my parents who kept asking me to go to a good school.",2113,0.94
+96,좋다,jota,a.,adjective,good,신제품의 질이 아주 좋아. — The quality of the new product is really good.,2093,0.71
+97,지만,jiman,e.,"ending, connective, final","CONNECTIVE, but, however",나는 영화는 좋아하지만 공포 영화는 싫어한다. — I like movies but not horror movies.,2085,0.98
+98,나/이나,na/ina,p.conj.,particle (conjunction),or,이따가 커피나 녹차를 마실 거예요. — I will drink coffee or green tea later.,2083,0.93
+99,어,eo,exc.,exclamative,"oh, well, yes, uh","어! 이 일을 어쩌면 좋을까? — Oh, what should I do?",2081,0.04
+100,씨,ssi,n.b.,noun (bound),"Mr, Ms; REFERENCE","서현 씨, 내일 영화 보러 가실래요? — Seoyeon, do you want to go to the movies tomorrow?",2063,0.77
+101,두,du,adn.,adnominal,two,결혼식에서 두 사람이 정말 행복해 보였다. — The two people looked s. happy at the wedding ceremony.,2042,0.78
+102,다고,dago,e.,"ending, connective, final","CONNECTIVE, QUOT.",겨울에는 춥다고 하던데. — They say that it is cold in winter.,2039,0.93
+103,받다,batda,v.,verb,receive,어머니께서 선물을 받고 기뻐하시더라. — My mother was pleased to receive the gift.,2014,0.9
+104,먹다,meokda,v.,verb,eat,아침에 뭘 먹어요? — What do you eat in the morning?,1993,0.55
+105,말하다,malhada,v.,verb,speak,아무도 말하는 사람이 없었어. — There was nobody who spoke.,1963,0.98
+106,뭐,mwo,pron.,pronoun,what,민준이 생일 선물로 뭐를 살까? — What should I buy as Minjun’s birthday gift?,1940,0.37
+107,이,i,pron.,pronoun,this,이는 우리의 주장이 맞다는 것을 보여준다. — This shows that our argument is right.,1926,0.93
+108,때문,ttaemun,n.b.,noun (bound),"because (of), because …","연휴 때문에 교통이 덜 막혀. — Because of the holidays, the traffic is less busy.",1890,0.96
+109,잘,jal,adv.,adverb,well,그는 어려서부터 바이올린을 잘 켰지. — He has played the violin well since his youth.,1844,0.63
+110,아도/어도/애도,ado/eodo/aedo,e.,"ending, connective, final","CONNECTIVE, even if, even though … , but","아무리 돈이 많아도 행복한 건 아니라구. — Even if you have a lot of money, you may not be happy.",1844,0.82
+111,다가,daga,e.,"ending, connective, final","CONNECTIVE, while","자다가 갑자기 목이 마른 거야. — While I was sleeping, I woke up thirsty.",1821,0.66
+112,그래서,geuraeseo,conj.,conjunction,"so, therefore, thus","그래서 저는 대학원에 가기로 결정했습니다. — So, I decided to go to graduate school.",1752,0.43
+113,데,de,n.b.,noun (bound),place,어디 앉아서 이야기를 할 데가 없을까? — Is there any place to sit down and talk?,1735,0.78
+114,모르다,moreuda,v.,verb,don’t know,저 유명한 요리사를 모르세요? — Don’t you know that famous chef?,1732,0.78
+115,ㄹ까/을까,lkka/eulkka,e.,"ending, connective, final","FINAL, QUESTION",내일 눈이 내릴까? — Will it snow tomorrow?,1714,0.75
+116,더,deo,adv.,adverb,more,"대학에 오니까 수업이 더 어렵다. — Since I came to college, the classes have been getting harder.",1697,0.85
+117,크다,keuda,a.,adjective,"tall, big; loud",민준이는 키가 크고 목소리도 크다구요. — Minjun is tall and his voice is also loud.,1694,0.88
+118,좀,jom,adv.,adverb,little,그 청바지가 좀 비싼 것 같아요. — This pair of jeans seems to be a little expensive.,1678,0.46
+119,이런,ireon,adn.,adnominal,this kind of,이런 그림이 좋아. — I like this kind of picture.,1659,0.67
+120,뭐,mwo,exc.,exclamative,what,뭐가 문제니? — What is the problem?,1651,0.12
+121,주다,juda,v.,verb,give,민준은 서연이에게 책을 줬어. — Minjun gave a book to Seoyeon.,1650,0.67
+122,위하다,wihada,v.,verb,for the sake of,그는 나라를 위해서 싸운 군인이었다. — He was a military man who fought for the sake of the nation.,1622,0.96
+123,소리,sori,n.,noun,sound; talk,한밤중에 저 집에서 이상한 소리가 나. — A strange sound comes out of that house in the middle of the night.,1599,0.72
+124,일,il,n.b.,noun (bound),"day, date",이달 5일은 무슨 날이지요? — What day of the week is the fifth of this month?,1587,0.71
+125,ㄴ데/은데,nde/eunde,e.,"ending, connective, final","CONNECTIVE, while, but","이 자전거가 고장인 것 같은데 제가 고쳐 드릴게요. — This bicycle seems to be out of order, but I will fix it.",1586,0.58
+126,번,beon,n.b.,noun (bound),COUNTER (time),하루에 세 번 약을 꼭 드세요. — Please make sure to take the medicine three times a day.,1571,0.7
+127,나다,nada,v.,verb,"happen, break out; grow, sprout",전쟁이 났다. — War broke out.,1570,0.63
+128,ㄴ가/은가,nga/eunga,e.,"ending, connective, final","FINAL, QUESTION",이 반에서 누가 제일 키가 큰가? — Who is the tallest one in this class?,1564,0.89
+129,너,neo,pron.,pronoun,YOU,너는 정말 부지런한 사람이구나! — You are really diligent!,1554,0.52
+130,이것,igeot,pron.,pronoun,"this, this thing",이것은 제가 가장 사랑하는 책입니다. — This is my favorite book.,1552,0.59
+131,많다,manda,a.,adjective,"many, a lot",세상에는 좋은 사람이 참 많지. — There are s. many good people in the world.,1539,0.87
+132,갖다,gatda,v.,verb,have,나는 멋진 오디오 시스템을 갖고 싶습니다 . — I’d like to have a nice stereo system.,1457,0.55
+133,들다,deulda,v.,verb,"enter, join",두 사람은 사진 동아리에 들기로 했어. — The two decided to join a photography club.,1445,0.74
+134,그러나,geureona,conj.,conjunction,"but, however","그러나 그 사람은 사과를 받지 않았습니다. — However, he did not accept the apology.",1445,0.99
+135,어떻다,eotteotda,a.,adjective,how is …; how about; why,이 색깔은 어떻습니까? — How about this color?,1445,0.69
+136,저,jeo,pron.,pronoun,I (HUMBLE),저는 부산 출신이에요. — I came from Busan.,1441,0.61
+137,생각하다,saenggakada,v.,verb,think,돌아가신 할머니를 자주 생각해요. — I often think of my grandmother who passed away.,1438,0.87
+138,죽다,jukda,v.,verb,die,"슬프게도 강아지가 죽어 버렸어. — Sadly, the puppy died.",1420,0.6
+139,여기,yeogi,pron.,pronoun,"this place, here",여기로 오세요. — Please come here.,1416,0.58
+140,못,mot,adv.,adverb,"not, cannot …","배가 너무 불러서 더 못 먹겠습니다. — I can’t eat anymore, because I am s. full.",1414,0.51
+141,생각,saenggak,n.,noun,"thought, idea","문득 그런 생각이 드는거야. — All of a sudden, that kind of thought occurred to me.",1410,0.76
+142,문제,munje,n.,noun,problem,그는 집안에 문제가 많은 듯하다. — He seems to have many problems at home.,1410,0.88
+143,놓다,notda,aux.,auxiliary predicate,"finish, make",저녁을 다 해 놓았다. — I’ve made the entire dinner.,1383,0.67
+144,죠,jyo,e.,"ending, connective, final","FINAL, CONFIRMATION (POLITE)","이 식당 음식이 정말 맛있죠? — This restaurant’s food is delicious, isn’t it?",1373,0.35
+145,나/으나,na/euna,e.,"ending, connective, final","CONNECTIVE, but",그는 똑똑하나 성실하진 않지. — He is smart but not sincere.,1370,0.91
+146,듣다,deutda,v.,verb,"hear, listen to",민지는 그 노래만 듣던데. — Minji listens to only that song.,1369,0.74
+147,앞,ap,n.,noun,front,네 앞에 있는 것만 잘 보고 있어라. — Watch that thing in front of you carefully.,1355,0.86
+148,자기,jagi,pron.,pronoun,self,자기를 아끼는 사람이 남도 아낄 줄 알아. — Those who care for themselves can care for others.,1350,0.73
+149,고,go,p.case,particle (case),"CONNECTIVE, QUOT., that",현우는 내일 여행을 간다고 하던데. — Hyunwu said that he would leave for a trip tomorrow.,1326,0.69
+150,얘기,yaegi,n.,noun,"story, talk",좀 더 얘기를 나눠 보고 결정합시다. — Let’s talk some more and make a decision.,1325,0.43
+151,속,sok,n.,noun,"inside, interior; stomach; mind, heart",속에 뭐가 있니? — What is inside?,1308,0.96
+152,나/이나,na/ina,p.sub.,subsidiary particle,as much (many) as,혼자서 3인분이나 먹었어? — Did you eat as much as three portions by yourself?,1306,0.85
+153,인제,inje,adv.,adverb,now,"인제 우리도 한 식구가 되었군요. — Now, we have become a family.",1300,0.03
+154,냐/으냐,nya/eunya,e.,"ending, connective, final","FINAL, QUESTION",어디 가냐? — Where are you going?,1270,0.44
+155,부터,buteo,p.sub.,subsidiary particle,from,내일부터 아침에 일찍 일어나겠다. — I will wake up early in the morning starting tomorrow.,1247,0.94
+156,못하다,motada,aux.,auxiliary predicate,"cannot, be not able to",몇몇 학생들이 공부를 못했다. — Several students couldn’t study.,1239,0.99
+157,어떤,eotteon,adn.,adnominal,"what, which, how; some, certain",어떤 일을 찾으세요? — What sort of thing are you looking for?,1236,0.76
+158,저,jeo,adn.,adnominal,that,저 책상은 너무 비싸네. — That desk is too expensive.,1236,0.39
+159,중,jung,n.b.,noun (bound),"in the middle of, among","회의 중에 전화가 울렸어. — In the middle of the meeting, the phone rang.",1235,0.91
+160,많이,mani,adv.,adverb,"many, a lot",커피를 많이 마셔서 잠이 안오네. — I had a lot of coffee s. I won’t fall asleep.,1222,0.56
+161,처럼,cheoreom,p.sub.,subsidiary particle,like,너는 아버지처럼 되고 싶어? — Do you want to be like your father?,1220,0.97
+162,왜,wae,adv.,adverb,"reason, why",사장님이 왜 그렇게 화를 내시는 거예요? — Why does the CEO get angry like that?,1213,0.57
+163,돈,don,n.,noun,money,난 돈을 많이 모았어. — I saved a lot of money.,1206,0.66
+164,명,myeong,n.b.,noun (bound),COUNTER (people),"이 표 한장으로 5명까지 할인 받을 수 있어. — With this ticket, five people can get a discount.",1205,0.85
+165,여자,yeoja,n.,noun,women,여자들만 거기에 갈 수 있어. — Only women can go there.,1192,0.76
+166,지금,jigeum,adv.,adverb,now,지금 뭐 해? — What do you do now?,1191,0.5
+167,어디,eodi,pron.,pronoun,where,가장 유명한 한식당이 어디에 있습니까? — Where’s the most famous Korean restaurant?,1179,0.66
+168,만들다,mandeulda,v.,verb,make,김치는 만들기가 좀 어려운 것 같습니다. — Kimchi seems to be hard to make.,1170,0.92
+169,이제,ije,adv.,adverb,"now, these days",이제 고향으로 돌아가려고 해. — I am trying to get back to my hometown these days.,1168,0.55
+170,뒤,dwi,n.,noun,"back, the rear; after, later; latter","뒤를 돌아보니 아무도 없던데. — I looked back, but there was nobody.",1161,0.9
+171,들어가다,deureogada,v.,verb,enter,"대학에 들어간 후 내겐 많은 변화가 일어났다. — After entering college, I changed a lot.",1159,0.68
+172,개,gae,n.b.,noun (bound),COUNTER (items),선물을 적어도 일곱 개는 사야 합니다. — I have to buy seven gifts at least.,1157,0.83
+173,보다,boda,p.case,particle (case),"COMPARATIVE, than",민준이는 저보다 피아노를 잘 쳐요. — Minjun plays the piano better than I do.,1156,0.98
+174,그냥,geunyang,adv.,adverb,"as it is, with no intention, just",창문을 그냥 그대로 두게. — Leave the window just as it is.,1153,0.3
+175,다시,dasi,adv.,adverb,again,그를 다시 만나면 하고 싶은 말이 많습니다. — I have a lot to say to him when I see him again.,1149,0.92
+176,그리고,geurigo,conj.,conjunction,"and, in addition",모두가 떠났다. 그리고 나는 혼자 남았지. — Everyone left. And I’m left alone.,1138,0.94
+177,자,ja,e.,"ending, connective, final","CONNECTIVE, when, as","그는 일이 끝나자 집으로 돌아왔다. — When he finished work, he came back home.",1137,0.92
+178,오다,oda,aux.,auxiliary predicate,"come, continue",우리는 오래 전부터 준비해 왔다. — We have been preparing for a long time.,1126,0.95
+179,원,won,n.b.,noun (bound),COUNTER (money),요즘 버스비가 몇 원인지 아세요? — Do you know how many won the bus fare is these days?,1101,0.75
+180,거기,geogi,pron.,pronoun,there,거기에 가만히 있어. — Stay there and don’t move.,1094,0.44
+181,거든,geodeun,e.,"ending, connective, final","FINAL, BACKGROUND",어제 손님이 찾아왔거든. — A guest visited me yesterday.,1089,0.16
+182,따르다,ttareuda,v.,verb,follow,"일기예보에 따르면 내일 비가 온다고 해요. — According to the weather forecast, it will rain tomorrow.",1075,0.95
+183,말다,malda,aux.,auxiliary predicate,don’t,우리 비밀을 다른 사람들한테는 말하지 말아. — Don’t tell our secret to others.,1067,0.79
+184,쓰다,sseuda,v.,verb,"use, utilize",인간은 도구를 쓰는 동물이야. — Humans are animals using instruments.,1064,0.76
+185,백,baek,num.,number,hundred,그 배우는 한 줄 대사를 백 번이나 되풀이했다. — That actor took over a hundred attempts to memorize a single line.,1057,0.74
+186,전,jeon,n.,noun,before,우리 가족은 밥 먹기 전에 항상 기도한다. — My family always prays before eating.,1057,0.89
+187,월,wol,n.b.,noun (bound),COUNTER (months),사장님께서 몇 월에 중국에 가시죠? — What month is our CEO going to China?,1055,0.83
+188,나가다,nagada,v.,verb,go out,"이 건물에서 나가서 오른쪽으로 가세요. — Leave this building, and go right.",1050,0.64
+189,날,nal,n.,noun,COUNTER (day),"오늘은 웬지 기분이 좋은 날이야. — For some reason, today is the day that I feel great.",1037,0.74
+190,야/이야,ya/iya,p.case,particle (case),VOCATIVE,현우야! 다시 만나서 정말 반가워. — Hyunwu! It’s really great to see you again.,1035,0.5
+191,참,cham,adv.,adverb,"real, true",참 예쁜 꽃이네. — These are really pretty flowers.,1029,0.23
+192,근데,geunde,conj.,conjunction,by the way (COLLOQUIAL),"근데, 넌 누구니? — By the way, who are you?",1026,0.04
+193,누구,nugu,pron.,pronoun,who,밖에서 기다리는 사람이 누구입니까? — Who is that waiting outside?,1023,0.8
+194,ㅂ니까/습니까,pnikka/seumnikka,e.,"ending, connective, final","FINAL, QUESTION (POLITE)","실례지만 어디에 가십니까? — Excuse me, but where are you going?",1011,0.61
+195,경우,gyeongu,n.,noun,"case, circumstances","위급한 경우에는 경찰에 신고하세요. — In case of emergency, contact the police.",1010,0.88
+196,무슨,museun,adn.,adnominal,"what, what kind of",무슨 음식을 좋아해요? — What kind of food do you like?,1010,0.64
+197,예,ye,exc.,exclamative,yes,"예, 접니다. — Yes, it’s me.",1007,0.2
+198,아이,ai,n.,noun,child,제 아이가 올해 초등학교에 입학합니다. — My child enters elementary school this year.,1004,0.84
+199,다음,daeum,n.,noun,next,다음 시험은 금요일에 있을 거야. — The next exam will be on Friday.,995,0.82
+200,놈,nom,n.b.,noun (bound),"dude, guy",그런 놈은 생각도 하지 말라. — Don’t even think of that sort of guy.,993,0.45
